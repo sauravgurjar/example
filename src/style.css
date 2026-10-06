@@ -1,0 +1,11 @@
+ :root {
+  font-family: system-ui, sans-serif;
+  color: #1e293b;
+  background: #f8fafc;
+}
+body { margin: 0; }
+main { max-width: 1042px; margin: 12vh auto; padding: 24px; }
+h1 { font-size: clamp(30px, 5vw, 48px); line-height: 1.15; }
+p { line-height: 1.6; }
+.eyebrow { color: #4338ca; font-weight: 600; }
+section { display: flex; flex-wrap: wrap; gap: 12px; margin: 32px 0; }
